@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Node / tooling
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build artifacts
+artifacts/
+cache/
+out/
+coverage/
+typechain/
+dist/
+build/
+
+# Env files
+.env
+.env.*
