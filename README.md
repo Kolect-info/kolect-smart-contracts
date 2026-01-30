@@ -32,6 +32,12 @@ Only contracts that are publicly released or deployed are included in this repos
 
 ---
 
+## BNB Chain Support
+
+Kolect smart contracts include on-chain modules deployed on **BNB Smart Chain (BSC)**, starting with the Daily Check-In contract.
+
+---
+
 ## Disclaimer
 
 The smart contracts in this repository are provided for transparency and public review purposes only.
